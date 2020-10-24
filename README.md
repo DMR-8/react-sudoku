@@ -1,5 +1,5 @@
 # React Sudoku
-Sudoku made with React using Redux.
+Sudoku made using React with Redux
 
 ### Installation
  ```sh
