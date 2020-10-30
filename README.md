@@ -4,5 +4,5 @@ Sudoku made using React with Redux
 ### Installation
  ```sh
 $ npm install
-$ npm run
+$ npm start
 ```
